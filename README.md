@@ -5,7 +5,7 @@ A tool which exports groups & sub-groups from Active Directory. This tool's scri
 **How to run**
 1. Create a folder at your desired destination on your PC - e.g. 'C:\Temp\ServiceDeskTools'.
 2. Open the 'ServiceDeskTools.ps1' file with PowerShell ISE (**run as administrator**).
-3. On **line 3** of ServiceDeskTools.ps1 replace the path of $xamlFile with the path of which you saved the MainWindow.xaml file in the folder onto your PC in step one (e.g. `$xamlFile="C:\Temp\MainWindow.xaml"`) **Don't forget to include MainWindow.xaml!**.
+3. On **line 3** of ServiceDeskTools.ps1 replace the path of $xamlFile with the path of which you saved the MainWindow.xaml file in the folder onto your PC in step one (e.g. `$xamlFile="C:\Temp\MainWindow.xaml"`) **Don't forget to include MainWindow.xaml!**
 4. Run the script by pressing **F5** or the green play icon.
 5. Enter the name of the group that you'd like to export.
 6. Click export and then select the file path of which you'd like the exported CSV file to be located.
