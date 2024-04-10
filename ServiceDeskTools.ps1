@@ -1,5 +1,4 @@
 Add-Type -AssemblyName PresentationFramework
-
 $xamlFile="C:\Temp\MainWindow.xaml"
 $inputXAML=Get-Content -Path $xamlFile -Raw
 $inputXAML=$inputXAML -replace 'mc:Ignorable="d"', '' -replace "x:N","N" -replace '^<Win.*', '<Window'
