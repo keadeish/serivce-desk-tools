@@ -1,4 +1,4 @@
-**<center>Active Directory Exporting tool</center>**
+**<center>Active Directory Exporting Tool</center>**
 
 A tool which exports groups & sub-groups from Active Directory. This tool's script was created with PowerShell & its GUI was designed with C#; using windows WPF framework.
 
