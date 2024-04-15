@@ -1,6 +1,6 @@
 **<center>Active Directory Exporting Tool</center>**
 
-A tool which exports groups & sub-groups from Active Directory. This tool's script was created with PowerShell & its GUI was designed with C#; using windows WPF framework.
+A tool which exports groups & sub-groups from Active Directory. This tool's script was created with PowerShell & its GUI was designed with C#; using Windows WPF framework.
 
 **How to run**
 1. Create a folder at your desired destination on your PC - e.g. 'C:\Temp\ServiceDeskTools'.
